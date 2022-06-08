@@ -2,7 +2,7 @@
 #List stores diffent data types unlike arrays
 #which stores one data type at a time
 #List stores data values in [] and values separated by a comma(,)
-#List are immutable - can be changed
+#List are mutable - can be changed
 countries = ["Kenya","Libya","South Africa","Egypt","Nigeria"
              ,"USA","Canada","Mexico","Argentina","Brazil",
              "France","Norway","Germany","Spain","England",
