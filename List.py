@@ -35,6 +35,3 @@ del(countries[0])
 #for integers it filters in an ascending order
 countries.sort()
 print(countries)
-
-
-
